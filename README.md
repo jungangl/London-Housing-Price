@@ -16,7 +16,7 @@ This challenge will make use of only what you learned in the following courses:
 - Manipulating DataFrames with pandas
 - Merging DataFrames with pandas
 
-Of the tools, techniques and concepts in the above DataCamp courses, this challenge should require the application of the following: 
+Of the tools, techniques and concepts, this challenge should require the application of the following: 
 - **pandas**
     - **data ingestion and inspection** (pandas Foundations, Module One) 
     - **exploratory data analysis** (pandas Foundations, Module Two)
