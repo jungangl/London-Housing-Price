@@ -1,5 +1,8 @@
 # London-Housing-Price
 
+## Project Conclusion
+In general, the housing price has grown a lot in London. Specifically, Hounslow, Richmond upon Thames, Harrow have the lowest growing rate in housing prices. From 1988 to 2018, the housing price increased by approximately 300%. Hackney has the highest growing rate in housing price which increased by morethan 500%;
+
 ## The Data Science Pipeline
 Four stages of Data Science Pipeline:
 
