@@ -8,7 +8,8 @@ Four stages of Data Science Pipeline:
 - Modeling
 - Evaluating and concluding
 
-This challenge will make use of only what you learned in the following courses: 
+## Challenges
+This project will make use of only what you learned in the following courses: 
 - Prework courses (Introduction to Python for Data Science, Intermediate Python for Data Science)
 - Data Types for Data Science
 - Python Data Science Toolbox (Part One) 
@@ -16,7 +17,8 @@ This challenge will make use of only what you learned in the following courses:
 - Manipulating DataFrames with pandas
 - Merging DataFrames with pandas
 
-Of the tools, techniques and concepts, this challenge should require the application of the following: 
+## Tools, Techniques, and Concepts
+This project should require the application of the following: 
 - **pandas**
     - **data ingestion and inspection** (pandas Foundations, Module One) 
     - **exploratory data analysis** (pandas Foundations, Module Two)
